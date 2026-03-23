@@ -14,3 +14,6 @@ Actualmente compaginando mi formación técnica con un puesto de responsabilidad
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎓 Certificaciones
+* Curso de Laravel 5 + APIs RESTful y Angular - Udemy (Victor Robles)
