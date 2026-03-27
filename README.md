@@ -4,6 +4,8 @@
 ### Estudiante de Ingeniería Informática & Desarrollador Web (DAW)
 Actualmente compaginando mi formación técnica con un puesto de responsabilidad, mientras desarrollo soluciones de software para optimizar procesos internos.
 
+- 🌐 ![raul-hora.com](raul-hora.com)
+
 - 🔭 Actualmente trabajando en: Proyectos de optimización logística.
 - 🌱 Aprendiendo: Ingeniería del Software, Java, Haskell y Prolog (UNED).
 - 🎯 Objetivo: Especialización en Ciberseguridad.
